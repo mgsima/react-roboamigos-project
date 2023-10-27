@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mgsima/react-roboamigos-project/static/css/main.90f4036f.css",
-    "main.js": "/mgsima/react-roboamigos-project/static/js/main.2eabce7a.js",
-    "static/js/787.9d6264a4.chunk.js": "/mgsima/react-roboamigos-project/static/js/787.9d6264a4.chunk.js",
-    "static/media/TERMINAT.TTF": "/mgsima/react-roboamigos-project/static/media/TERMINAT.ca6c0fa5074370950d83.TTF",
-    "index.html": "/mgsima/react-roboamigos-project/index.html",
-    "main.90f4036f.css.map": "/mgsima/react-roboamigos-project/static/css/main.90f4036f.css.map",
-    "main.2eabce7a.js.map": "/mgsima/react-roboamigos-project/static/js/main.2eabce7a.js.map",
-    "787.9d6264a4.chunk.js.map": "/mgsima/react-roboamigos-project/static/js/787.9d6264a4.chunk.js.map"
+    "main.css": "/react-roboamigos-project/static/css/main.49dcbb9a.css",
+    "main.js": "/react-roboamigos-project/static/js/main.21f3137e.js",
+    "static/js/787.9d6264a4.chunk.js": "/react-roboamigos-project/static/js/787.9d6264a4.chunk.js",
+    "static/media/TERMINAT.TTF": "/react-roboamigos-project/static/media/TERMINAT.ca6c0fa5074370950d83.TTF",
+    "index.html": "/react-roboamigos-project/index.html",
+    "main.49dcbb9a.css.map": "/react-roboamigos-project/static/css/main.49dcbb9a.css.map",
+    "main.21f3137e.js.map": "/react-roboamigos-project/static/js/main.21f3137e.js.map",
+    "787.9d6264a4.chunk.js.map": "/react-roboamigos-project/static/js/787.9d6264a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90f4036f.css",
-    "static/js/main.2eabce7a.js"
+    "static/css/main.49dcbb9a.css",
+    "static/js/main.21f3137e.js"
   ]
 }
