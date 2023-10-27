@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'TERMINAT';
+    src: local('TERMINAT'), url('./TERMINAT.TTF') format('truetype');
+}
+
+h1 {
+    font-family: 'TERMINAT';
+    font-weight: 300;
+    color: #00c3ff;
+}
