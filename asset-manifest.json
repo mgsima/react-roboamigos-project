@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-roboamigos-project/static/css/main.49dcbb9a.css",
+    "main.js": "/react-roboamigos-project/static/js/main.21f3137e.js",
+    "static/js/787.9d6264a4.chunk.js": "/react-roboamigos-project/static/js/787.9d6264a4.chunk.js",
+    "static/media/TERMINAT.TTF": "/react-roboamigos-project/static/media/TERMINAT.ca6c0fa5074370950d83.TTF",
+    "index.html": "/react-roboamigos-project/index.html",
+    "main.49dcbb9a.css.map": "/react-roboamigos-project/static/css/main.49dcbb9a.css.map",
+    "main.21f3137e.js.map": "/react-roboamigos-project/static/js/main.21f3137e.js.map",
+    "787.9d6264a4.chunk.js.map": "/react-roboamigos-project/static/js/787.9d6264a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49dcbb9a.css",
+    "static/js/main.21f3137e.js"
+  ]
+}
