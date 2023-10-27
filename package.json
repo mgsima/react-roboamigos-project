@@ -38,7 +38,8 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/react": "^14.0.0"
+    "@testing-library/react": "^14.0.0",
+    "gh-pages": "^6.0.0"
   },
-  "homepage": "https://mgsima.github.io/react-roboamigos-project"
+  "homepage": "https://mgsima.github.io/react-roboamigos-project/"
 }
